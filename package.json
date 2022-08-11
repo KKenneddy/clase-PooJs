@@ -1,0 +1,19 @@
+{
+  "name": "clase-poojs",
+  "version": "1.0.0",
+  "description": "Aprendiendo Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KKenneddy/clase-PooJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KKenneddy/clase-PooJs/issues"
+  },
+  "homepage": "https://github.com/KKenneddy/clase-PooJs#readme"
+}
